@@ -3,8 +3,8 @@ This is a short project examining the Active-learning methods on the Covid_CT an
 
 ### 1. Results on the Covid_Ct dataset
         Test1
-<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset1_test1.png" /><img
+<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset1_test1.png" width="200" height="400"/><img
 
         Test2
-<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset1_test2.png" /><img
+<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset1_test2.png" width="200" height="400"/><img
 
