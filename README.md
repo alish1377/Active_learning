@@ -8,3 +8,14 @@ This is a short project examining the Active-learning methods on the Covid_CT an
         Test2
 <img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset1_test2.png" />
 
+### 1. Results on the Blood_Cell dataset
+        Test1
+<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset2_test1.png" />
+
+        Test2
+<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset2_test2.png" />
+
+        Test3
+<img src="https://github.com/alish1377/Active_learning/blob/main/assets/dataset2_test3.png" />
+
+
